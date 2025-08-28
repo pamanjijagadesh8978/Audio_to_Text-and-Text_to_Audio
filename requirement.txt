@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+requests
+pydantic
+kokoro
+soundfile
+numpy
+fastapi
+uvicorn[standard]
+openai-whisper
+torch
+streamlit
+audio-recorder-streamlit
+requests
+pydub
